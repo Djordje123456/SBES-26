@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<ArrayOfDatabaseEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DatabaseEntry>
+    <Id>0</Id>
+    <Region>Backa</Region>
+    <City>Novi Sad</City>
+    <Year>2021</Year>
+    <Consumption>
+      <double>4</double>
+      <double>7</double>
+      <double>6</double>
+      <double>8</double>
+      <double>9</double>
+      <double>6</double>
+      <double>7</double>
+      <double>5</double>
+      <double>8</double>
+      <double>6</double>
+      <double>7</double>
+      <double>8</double>
+    </Consumption>
+  </DatabaseEntry>
+  <DatabaseEntry>
+    <Id>1</Id>
+    <Region>Backa</Region>
+    <City>Subotica</City>
+    <Year>2022</Year>
+    <Consumption>
+      <double>5</double>
+      <double>1</double>
+      <double>2</double>
+      <double>4</double>
+      <double>3</double>
+      <double>2</double>
+      <double>4</double>
+      <double>3</double>
+      <double>4</double>
+      <double>5</double>
+      <double>3</double>
+      <double>4</double>
+    </Consumption>
+  </DatabaseEntry>
+</ArrayOfDatabaseEntry>

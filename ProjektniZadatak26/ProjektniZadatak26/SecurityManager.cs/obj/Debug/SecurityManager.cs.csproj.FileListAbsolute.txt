@@ -1,0 +1,8 @@
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\bin\Debug\SecurityManager.cs.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\bin\Debug\SecurityManager.cs.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.csprojAssemblyReference.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.RolesConfigFile.resources
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.csproj.GenerateResource.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\SecurityManager.cs\obj\Debug\SecurityManager.cs.pdb

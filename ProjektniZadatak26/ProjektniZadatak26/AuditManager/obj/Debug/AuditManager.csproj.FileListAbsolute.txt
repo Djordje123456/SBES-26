@@ -1,0 +1,15 @@
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\bin\Debug\AuditManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\bin\Debug\AuditManager.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.AuditEventFile.resources
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.csproj.GenerateResource.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.csproj.CoreCompileInputs.cache
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.dll
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.pdb
+C:\UsluzniProjekti\SBES\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.csprojAssemblyReference.cache
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\bin\Debug\AuditManager.dll
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\bin\Debug\AuditManager.pdb
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.AuditEventFile.resources
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.csproj.GenerateResource.cache
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.csproj.CoreCompileInputs.cache
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.dll
+C:\ProjektniZadatak26\ProjektniZadatak26\ProjektniZadatak26\AuditManager\obj\Debug\AuditManager.pdb
