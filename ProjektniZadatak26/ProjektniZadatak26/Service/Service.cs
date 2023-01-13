@@ -600,17 +600,23 @@ namespace Service
         {
             XmlSerializer serializer = new XmlSerializer(typeof(List<DatabaseEntry>));
             List<DatabaseEntry> entryList = new List<DatabaseEntry>();
-
-            using (FileStream stream = File.OpenRead(databasePath))
+            if (File.Exists(databasePath))
             {
-                try
+                using (FileStream stream = File.OpenRead(databasePath))
                 {
-                    entryList = (List<DatabaseEntry>)serializer.Deserialize(stream);
+                    try
+                    {
+                        entryList = (List<DatabaseEntry>)serializer.Deserialize(stream);
+                    }
+                    catch (Exception e)
+                    {
+                        //Avoiding the empty database exception.
+                    }
                 }
-                catch (Exception e)
-                {
-                    //Avoiding the empty database exception.
-                }
+            }
+            else
+            {
+                Console.WriteLine("Nema baze\n");
             }
             return entryList;
         }
